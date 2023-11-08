@@ -1,0 +1,28 @@
+.ds-logo {
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 3px;
+    color: #000;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+}
+
+.ds-logo span {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: #000;
+    border-radius: 4px;
+    color: #FFF;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+    margin-right: 12px;
+}
+
+.ds-logo:hover {
+    color: #000;
+}
